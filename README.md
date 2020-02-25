@@ -1,14 +1,14 @@
 # Challenges
-Repo for coding Challenges I have found 
+
+Repo for coding Challenges I have found.  
 Organized by where I have encountered them.
 
 
-## `Newsletter/` Repo
+## :open_file_folder: `Newsletter/` 
 These come from https://buttondown.email/cassidoo/archive
 
-
-## `Tutorials/` Repo
-
-
-## `CTCI/` Repo
+## :open_file_folder: `CTCI/`
 Examples from the book Cracking the Coding Interview. 
+
+
+## :open_file_folder: `Tutorials/`
